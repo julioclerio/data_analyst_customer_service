@@ -1,5 +1,6 @@
 # data_analyst_customer_service
-This repository hosts a  of customer service interactions and sales data for a franchise store.
+This repository hosts a  of customer service interactions and sales data for a franchise store. 
+Activity Completed During the Data Analyst Course at Soul Code Academy
 
 ## Repository Structure
 The repository is organized into several sections:
